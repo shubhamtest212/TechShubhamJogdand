@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium_FrameWork.TESTNG12"/>
+      <class name="Selenium_FrameWork.TESTNG11"/>
+      <class name="Selenium_FrameWork.TESTNG10"/>
+      <class name="Selenium_FrameWork.takescreenshotonfailure1"/>
+      <class name="Selenium_FrameWork.TestNG_7_Practices"/>
+      <class name="Selenium_FrameWork.TESTNGG"/>
+      <class name="Selenium_FrameWork.TestNG_2"/>
+      <class name="Selenium_FrameWork.TestNG_1"/>
+      <class name="Selenium_FrameWork.TestNG_4"/>
+      <class name="Selenium_FrameWork.TestNG_3"/>
+      <class name="Selenium_FrameWork.TestNG_4_Practices"/>
+      <class name="Selenium_FrameWork.TestNGG_6"/>
+      <class name="Selenium_FrameWork.TestNGG_4"/>
+      <class name="Selenium_FrameWork.TestNGG_5"/>
+      <class name="Selenium_FrameWork.TestNGG_2"/>
+      <class name="Selenium_FrameWork.TestNGG_3"/>
+      <class name="Selenium_FrameWork.TestNG_003"/>
+      <class name="Selenium_FrameWork.TakingScreenShotsOnFailureTestCases3"/>
+      <class name="Selenium_FrameWork.TestNG_004"/>
+      <class name="Selenium_FrameWork.TestNG_001"/>
+      <class name="Selenium_FrameWork.TestNG_002"/>
+      <class name="Selenium_FrameWork.TakingScreenShotsOnFailureTestCases1"/>
+      <class name="Selenium_FrameWork.TakingScreenShotsOnFailureTestCasesTSs"/>
+      <class name="Selenium_FrameWork.TESTNG1"/>
+      <class name="Selenium_FrameWork.TESTNG2"/>
+      <class name="Selenium_FrameWork.Test_NG_1"/>
+      <class name="Selenium_FrameWork.TESTNG3"/>
+      <class name="Selenium_FrameWork.TESTNG4"/>
+      <class name="Selenium_FrameWork.TestNG_3_Practices"/>
+      <class name="Selenium_FrameWork.TESTNG5"/>
+      <class name="Selenium_FrameWork.TESTNG_GroupingOfTests"/>
+      <class name="Selenium_FrameWork.TESTNG6"/>
+      <class name="Selenium_FrameWork.TestNG10"/>
+      <class name="Selenium_FrameWork.TESTNG7"/>
+      <class name="Selenium_FrameWork.TESTNG8"/>
+      <class name="Selenium_FrameWork.TestNG12"/>
+      <class name="Selenium_FrameWork.TESTNG9"/>
+      <class name="com.projectName.tests.PageFactoryLoginTest"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_Engineer_2"/>
+      <class name="Selenium_FrameWork.TakeScreenshotOnFailure3"/>
+      <class name="Selenium_FrameWork.TestNG_2_Practices"/>
+      <class name="Selenium_FrameWork.TakeScreenshotOnFailure2"/>
+      <class name="com.projectName.tests.LoginTest"/>
+      <class name="Selenium_FrameWork.TestNG_6_Practices"/>
+      <class name="Selenium_FrameWork.TestNG_Practices"/>
+      <class name="Selenium_FrameWork.TestNG_9_Practices"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_2"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_3"/>
+      <class name="Selenium_FrameWork.TestNG_1_Practices"/>
+      <class name="Selenium_FrameWork.TestNGG_1"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_4"/>
+      <class name="Selenium_FrameWork.TakenScreenShots2"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_5"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_6"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_7"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_8"/>
+      <class name="Selenium_FrameWork.TakenScreenShotOnFailure2"/>
+      <class name="Selenium_FrameWork.TESTNG_GroupingOfTests_1"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_1"/>
+      <class name="Selenium_FrameWork.TestNG6"/>
+      <class name="Selenium_FrameWork.TestNG7"/>
+      <class name="Selenium_FrameWork.TestNG8"/>
+      <class name="Selenium_FrameWork.TestNG9"/>
+      <class name="Selenium_FrameWork.TestNG2"/>
+      <class name="Selenium_FrameWork.TestNG_5_Practices"/>
+      <class name="Selenium_FrameWork.TestNG5"/>
+      <class name="Selenium_FrameWork.TestNG_01"/>
+      <class name="Selenium_FrameWork.TestNG_8_Practices"/>
+      <class name="Selenium_FrameWork.TestNG_02"/>
+      <class name="Selenium_FrameWork.TestNG"/>
+      <class name="Selenium_FrameWork.TESTNG13"/>
+      <class name="Selenium_FrameWork.TestNG1"/>
+      <class name="Selenium_FrameWork.TestNG_SDET_Engineer_1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
