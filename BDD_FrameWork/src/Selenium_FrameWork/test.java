@@ -2,12 +2,12 @@ package Selenium_FrameWork;
 
 import org.testng.annotations.Test;
 
-public class testClass {
+public class test {
 
 	@Test
-	public Class aMethod() {
+	public void aMethod() {
 		System.out.println("A method");
-		return null;
+
 	}
 
 }
