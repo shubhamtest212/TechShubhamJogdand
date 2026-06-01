@@ -9,5 +9,10 @@ public class test {
 		System.out.println("A method");
 
 	}
+	
+	@Test
+	public void bMethod() {
+		System.out.println("b mETHOD");
+	}
 
 }
