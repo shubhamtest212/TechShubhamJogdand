@@ -34,7 +34,7 @@ public class RestAssuredPutMethod {
 		// Add JSON body
 		httpRequest.body(requestParams.toString());
 
-		// Send POST request
+		// Send put request
 		Response resp = httpRequest.put("/users/1");
 
 		// Print status code

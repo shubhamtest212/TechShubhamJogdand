@@ -19,8 +19,7 @@ public class windowsHandling_2 {
 		// step 1 - window handling
 		Thread.sleep(3000);
 		driver.findElement(By.id("tabButton")).click();
-		Set<>
-
+		
 	}
 
 }
