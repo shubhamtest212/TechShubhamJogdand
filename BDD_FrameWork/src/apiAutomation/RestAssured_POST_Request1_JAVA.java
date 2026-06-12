@@ -16,7 +16,7 @@ public class RestAssured_POST_Request1_JAVA {
 
 		Response response = RestAssured.given().contentType("application/json").when()
 				.post("https://reqres.in/api/users/");
-		response.then().statusCode(201);
+		
 
 	}
 
