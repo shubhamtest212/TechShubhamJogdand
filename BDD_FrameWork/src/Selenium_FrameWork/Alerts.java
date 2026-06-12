@@ -19,8 +19,8 @@ public class Alerts {
 		wt.until(ExpectedConditions.elementToBeClickable(By.xpath(""))).click();
 
 		// Accept Alert by using JavaScriptExecutor
-		JavaScriptExecutor jse = (JavaScriptExecutor) driver;
-		jse.executeScript("document.getElementById('confirmButton').click()");
+//		JavaScriptExecutor jse = (JavaScriptExecutor) driver;
+//		jse.executeScript("document.getElementById('confirmButton').click()");
 		driver.switchTo().alert().accept();
 		System.out.println("Alert accepted");
 		driver.switchTo().alert().dismiss();
